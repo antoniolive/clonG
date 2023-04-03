@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    display: flex;
+    background-color: ;
+    justify-content: end;
+    align-items: center;
+    margin-top: 15px;
+    
+    
+}
+
+
+header div {
+    margin: 5px;
+    padding: 5px;
+}
+
+#acceder a:hover{
+    background-color: rgb(0, 123, 255);
+    text-decoration: none;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
